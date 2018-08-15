@@ -1,7 +1,7 @@
 # SQL-Syntax-Challenge-Postico
-###Practice performing SQL queries
+### Practice performing SQL queries
 
->###Technology:
+>### Technology:
 * Postgres
 * Postico
 
